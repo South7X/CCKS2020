@@ -1,0 +1,1 @@
+from .bert_for_multi_label import BertForMultiLable
